@@ -1,0 +1,4 @@
+text_summarizer_by_didi.ipynb
+*.csv
+results/
+TEXTSUMMARIZERAPP/saved_summary_model/
